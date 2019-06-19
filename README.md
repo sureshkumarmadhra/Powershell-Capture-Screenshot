@@ -7,6 +7,9 @@ Introduction - Capture-Screenshot:
 Below details explains the entire scenario in creating the image that contains the screen content, like the windows and other details on the screen. Each time the application will run, it will save the image inside your Documents folder where you can acces
 
 
+Version: Powershell 2.0
+-----------------------------
+
 Background
 ----------
 
