@@ -1,0 +1,6 @@
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Test Application C Sharp\Test Application C Sharp\bin\Debug\Test Application C Sharp.exe.config
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Test Application C Sharp\Test Application C Sharp\bin\Debug\Test Application C Sharp.exe
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Test Application C Sharp\Test Application C Sharp\bin\Debug\Test Application C Sharp.pdb
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Test Application C Sharp\Test Application C Sharp\obj\Debug\Test Application C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Test Application C Sharp\Test Application C Sharp\obj\Debug\Test Application C Sharp.exe
+C:\Users\AfzaalAhmad\Documents\Visual Studio 2013\Projects\Test Application C Sharp\Test Application C Sharp\obj\Debug\Test Application C Sharp.pdb
